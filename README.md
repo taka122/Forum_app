@@ -1,5 +1,5 @@
 # 掲示板app
-※English translation is available below.
+※An explanation in English is provided below
 
 このフォルダには、会員登録から投稿・編集・削除まで備えたシンプルな掲示板アプリケーションが含まれています。PHP + MySQL (MAMP想定) で動作し、ログインユーザーのみが投稿を管理できます。
 
